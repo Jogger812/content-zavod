@@ -1,0 +1,25 @@
+# Секреты - никогда не коммитим
+.env
+.env.local
+
+# Мусор системы
+.DS_Store
+Thumbs.db
+
+# Кэши и временное
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+*.log
+
+# Личные файлы ученика - остаются только на компьютере, не пушим
+USER.md
+MEMORY.md
+SOUL.md
+knowledge/
+memory/
+
+# Синхронизация новостей (отдельный внутренний репозиторий)
+.wb-news-sync/
