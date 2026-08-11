@@ -18,7 +18,13 @@ node_modules/
 USER.md
 MEMORY.md
 SOUL.md
-knowledge/
+knowledge/my-audience.md
+knowledge/audience-voice.md
+knowledge/my-themes.md
+knowledge/my-product.md
+knowledge/idea-bank.md
+knowledge/lessons-learned.md
+knowledge/what-worked.md
 memory/
 
 # Синхронизация новостей (отдельный внутренний репозиторий)
