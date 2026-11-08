@@ -67,6 +67,7 @@
 | «О чём снять», выбор рубрики | `knowledge/my-themes.md` + `knowledge/idea-bank.md` |
 | Продажа, воронка, лид-магнит, CTA | `knowledge/my-product.md` |
 | «Что у меня заходило», выбор темы по факту | `knowledge/what-worked.md` |
+| Съёмка, монтаж, DaVinci, оцифровка галереи, моушн, звук, рендер, формат ролика | `knowledge/montage-rules.md` (деталь - в `Монтаж с ИИ.../Конституция_монтажа.md`) |
 | Чтобы не повторять старые ошибки | `knowledge/lessons-learned.md` |
 
 # Мои скиллы (прокачка)
